@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "See what lines of your JavaScript code are being executed inside Atom",
   "keywords": [ "atom", "trace" ],
-  "repository": "https://github.com/atom/atom-dione",
+  "repository": "https://github.com/gimenete/atom-dione",
   "menus": [],
   "keymaps": [],
   "license": "MIT",
