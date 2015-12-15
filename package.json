@@ -1,10 +1,12 @@
 {
   "name": "atom-dione",
   "main": "./lib/atom-dione",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "See what lines of your JavaScript code are being executed inside Atom",
   "keywords": [ "atom", "trace" ],
   "repository": "https://github.com/atom/atom-dione",
+  "menus": [],
+  "keymaps": [],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
